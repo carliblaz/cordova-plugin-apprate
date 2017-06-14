@@ -332,7 +332,7 @@ Locales.addLocale(new Locale({
 Locales.addLocale(new Locale({
   language: 'sl',
   title: "Oceni %@",
-  message: "Če vam je %@ všeč, bi vas prosili, da si vzamete moment in ocenite? Ne bo vam vzelo več kot minuto. Hvala za vašo podporo!",
+  message: "Če vam je %@ všeč, bi vas prosili, da si vzamete trenutek in ocenite? Ne bo vam vzelo več kot minuto. Hvala za vašo podporo!",
   cancelButtonLabel: "Ne, hvala",
   laterButtonLabel: "Spomni me kasneje",
   rateButtonLabel: "Oceni zdaj"
